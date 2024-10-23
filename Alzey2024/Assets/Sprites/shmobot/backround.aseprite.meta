@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 89554637097d969459b290ccee42af18
+guid: 4db53685c8b84f0458c9d821752abf8e
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Sprite-0006
+  - name: backround
     originalName: 
-    pivot: {x: 1.4285715, y: -1.2222223}
+    pivot: {x: 0.5, y: 0.25}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 112
-      height: 144
-    spriteID: 548989dcdd98ca14db057858cd04108c
+      width: 640
+      height: 360
+    spriteID: 9201da3266570e846bd99cdd07ea410f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,21 +144,21 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -572921608
-    name: Sprite-0006
+    guid: -1989104343
+    name: backround
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Sprite-0006
+    - name: backround
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 0
-        y: 176
-        width: 112
-        height: 144
-      spriteId: 548989dcdd98ca14db057858cd04108c
+        x: -160
+        y: -90
+        width: 640
+        height: 360
+      spriteId: 9201da3266570e846bd99cdd07ea410f
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -177,4 +177,4 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 320, y: 320}
+  canvasSize: {x: 320, y: 180}
